@@ -1,0 +1,5 @@
+# Schema for the configuration files of the Gough theme.
+
+gough.settings:
+  type: theme_settings
+  label: 'Gough settings'
